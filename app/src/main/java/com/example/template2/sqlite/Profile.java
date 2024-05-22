@@ -21,7 +21,6 @@ public class Profile extends AppCompatActivity {
     EditText name, email,phone;
     Button insert, update, delete, view;
     DBHelper DB;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -64,7 +63,8 @@ public class Profile extends AppCompatActivity {
                 }
                 else {
                     Toast.makeText(Profile.this, "New Entry Not Updated", Toast.LENGTH_SHORT).show(); }
-            }        });
+            }
+        });
         delete.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -77,7 +77,8 @@ public class Profile extends AppCompatActivity {
                 else {
                     Toast.makeText(Profile.this, "Entry Not Deleted", Toast.LENGTH_SHORT).show();
                 }
-            }        });
+            }
+        });
 
         view.setOnClickListener(new View.OnClickListener() {
             @Override

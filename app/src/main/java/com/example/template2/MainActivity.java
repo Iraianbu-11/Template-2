@@ -1,12 +1,7 @@
 package com.example.template2;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Handler;
-
-import com.example.template2.sharepref.SharedPreference;
 import com.example.template2.sqlite.Profile;
 public class MainActivity extends AppCompatActivity {
     @Override

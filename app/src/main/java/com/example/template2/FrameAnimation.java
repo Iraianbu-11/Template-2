@@ -7,9 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 
 public class FrameAnimation extends AppCompatActivity {
-
     private ImageView imageView;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
