@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "979887283305",
+    "firebase_url": "https://mad-lab-7ca01-default-rtdb.firebaseio.com",
+    "project_id": "mad-lab-7ca01",
+    "storage_bucket": "mad-lab-7ca01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979887283305:android:0c8b8a0951d64575a896f8",
+        "android_client_info": {
+          "package_name": "com.example.template2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCChdNac-xbuwBpoDDupsgYD35LP0983PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
