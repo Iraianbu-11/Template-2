@@ -133,12 +133,12 @@
             android:textAlignment="center"
             />
 
-        <com.google.android.gms.common.SignInButton
-            android:layout_width="200sp"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="30sp"
-            android:layout_marginStart="50sp"
-            android:id="@+id/googleBtn"/>
+<!--        <com.google.android.gms.common.SignInButton-->
+<!--            android:layout_width="200sp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="30sp"-->
+<!--            android:layout_marginStart="50sp"-->
+<!--            android:id="@+id/googleBtn"/>-->
 
     </LinearLayout>
 
